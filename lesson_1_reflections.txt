@@ -1,0 +1,21 @@
+The "diff" of "FC" is very helpful to find
+different between your old and new files.
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+- my assistant
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+- manually you choose yourself the best time to make commit, but if you'll forget to make it - you'll have some problems.
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+- for more usability.
+
+How can you use the commands git log and git diff to view the history of files?
+- I can use 'git log' command to see all history of file and 'git diff <commit1> <commit2>' with two commits which we want to compare.
+
+How might using version control make you more confident to make changes that could break something?
+- Knowing that I can return to the previous version of my file that is good.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+-I don't make any changes.
+
