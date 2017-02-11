@@ -4,3 +4,6 @@ What happens when you initialize a repository? Why do you need to do it?
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 - staging area is your area there you define which files of the directory or the repository will be followed by Git.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+- When I want to try some different ways of developing my programm. I can make it width brances safety.
